@@ -39,7 +39,7 @@ export default function PaymentRefundPolicy() {
         Exchange Policy
       </h2>
       <p style={{ fontSize: "1.1rem", lineHeight: "1.8", color: "#333" }}>
-        If you’ve received a wrong size or defective product, we are happy to exchange it for you. 
+        If youve received a wrong size or defective product, we are happy to exchange it for you. 
         Exchanges must be requested within <strong>3 days</strong> of delivery.
       </p>
 

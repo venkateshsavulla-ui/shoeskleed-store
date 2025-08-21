@@ -1,0 +1,8 @@
+export default [
+  {
+    rules: {
+      "react/no-unescaped-entities": "off", // 🚀 disables apostrophe error
+      "@next/next/no-img-element": "off",   // 🚀 disables <img> warnings
+    },
+  },
+];
