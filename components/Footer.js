@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 sm:px-8">
         {/* Copyright */}
         <div className="mt-8 pt-6 border-t border-gray-100 text-center text-gray-500 text-xs">
-          Copyright © by Aziri 2025. All rights reserved.
+         Copyright © by Aziri 2025. All rights reserved.
         </div>
       </div>
     </footer>

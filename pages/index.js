@@ -44,8 +44,8 @@ export default function HomePage() {
             marginTop: '20px', 
             padding: '15px 30px', 
             fontSize: '1.2rem', 
-            backgroundColor: '#4a4646ff', 
-            color: '#000', 
+            backgroundColor: '#191818ff', 
+            color: '#fbf7f7ff', 
             border: 'none', 
             cursor: 'pointer' 
           }}>
